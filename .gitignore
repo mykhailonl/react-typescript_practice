@@ -1,0 +1,8 @@
+# Исключить папку temp и все ее содержимое
+temp/
+
+# Исключить все .txt файлы
+*.txt
+
+# Ignore .DS_Store files
+.DS_Store
