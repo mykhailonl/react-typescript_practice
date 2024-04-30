@@ -7,4 +7,9 @@ temp/
 # Ignore .DS_Store files
 .DS_Store
 
-.VSCode.code-workspace
+
+VSCode.code-workspace
+Clean-Landing/
+Landings/
+React/
+
